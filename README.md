@@ -14,7 +14,7 @@ Conducted necessary text preprocessing, including adding special tokens, padding
 Built a Sentiment Classifier using the Hugging Face Transformers library.
 Saved the best model for deployment purposes.
 
-#### 4. API deployment - WIP
+#### 3. API deployment - WIP
 
 ## Technologies and Tools:
 Python
